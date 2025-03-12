@@ -38,6 +38,7 @@ public class Solution {
         for (Map.Entry<Student, Project> entry : allocation.entrySet()) {
             System.out.println(entry.getKey().getName() + " is assigned to " + entry.getValue().getTitle());
         }
+        System.out.println("Persons involved in Problem: ");
         for(Person p : problem.getAllPersons()){
             System.out.println(p.getName());
         }
