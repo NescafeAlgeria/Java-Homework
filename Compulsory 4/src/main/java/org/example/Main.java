@@ -5,12 +5,12 @@ import java.util.stream.Collectors;
 public class Main {
     public static void main(String[] args) {
         List<Location> locations = Arrays.asList(
-                new Location("Alpha Base", LocationType.FRIENDLY),
-                new Location("Bravo Post", LocationType.NEUTRAL),
-                new Location("Charlie Zone", LocationType.ENEMY),
-                new Location("Delta Outpost", LocationType.FRIENDLY),
-                new Location("Echo Site", LocationType.ENEMY),
-                new Location("Foxtrot Camp", LocationType.FRIENDLY)
+                new Location("A", LocationType.FRIENDLY),
+                new Location("B", LocationType.NEUTRAL),
+                new Location("C", LocationType.ENEMY),
+                new Location("D", LocationType.FRIENDLY),
+                new Location("E", LocationType.ENEMY),
+                new Location("F", LocationType.FRIENDLY)
         );
 
         TreeSet<Location> friendlyLocations = locations.stream()
