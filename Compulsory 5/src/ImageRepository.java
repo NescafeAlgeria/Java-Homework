@@ -5,7 +5,7 @@ import java.util.*;
 import java.util.List;
 
 class ImageRepository {
-    private final List<Image> images = new ArrayList<>();
+    private List<Image> images = new ArrayList<>();
 
     public void addImage(Image image) throws ImageException {
         if (image == null) {

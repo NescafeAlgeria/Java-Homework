@@ -6,7 +6,7 @@ public class Main {
 
         try {
             // Adding sample images
-            Image img1 = new Image("A", LocalDate.now(), "C:/Images/A.jpg");
+            Image img1 = new Image("A", LocalDate.now(), "C:/Images/A.png");
             Image img2 = new Image("B", LocalDate.now(), "C:/Images/B.jpg");
 
             repository.addImage(img1);
