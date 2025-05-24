@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Compulsory 10 - ClientApplication/Compulsory 10 - ClientApplication.iml" filepath="$PROJECT_DIR$/Compulsory 10 - ClientApplication/Compulsory 10 - ClientApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Compulsory 10 - ServerApplication/Compulsory 10 - ServerApplication.iml" filepath="$PROJECT_DIR$/Compulsory 10 - ServerApplication/Compulsory 10 - ServerApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/Compulsory 3/Compulsory 3.iml" filepath="$PROJECT_DIR$/Compulsory 3/Compulsory 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Compulsory 5/Compulsory 5.iml" filepath="$PROJECT_DIR$/Compulsory 5/Compulsory 5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Compulsory 6/Compulsory 6.iml" filepath="$PROJECT_DIR$/Compulsory 6/Compulsory 6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Compulsory 8/Compulsory 8.iml" filepath="$PROJECT_DIR$/Compulsory 8/Compulsory 8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Compulsory Lab 1/Compulsory Lab 1.iml" filepath="$PROJECT_DIR$/Compulsory Lab 1/Compulsory Lab 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Compulsory Lab 2/Compulsory Lab 2.iml" filepath="$PROJECT_DIR$/Compulsory Lab 2/Compulsory Lab 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Compulsory-11.iml" filepath="$PROJECT_DIR$/Compulsory-11.iml" />
       <module fileurl="file://$PROJECT_DIR$/Compulsory-9.iml" filepath="$PROJECT_DIR$/Compulsory-9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Compulsory7/Compulsory7.iml" filepath="$PROJECT_DIR$/Compulsory7/Compulsory7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Homework 1/Homework 1.iml" filepath="$PROJECT_DIR$/Homework 1/Homework 1.iml" />
